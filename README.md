@@ -1,4 +1,3 @@
 INTEGRANTES
 
-Luisa Fernanda Sanchez
-Ana Cristina Lizarazo Páez
+Luisa Fernanda Sanchez   /   Ana Cristina Lizarazo Páez
